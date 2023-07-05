@@ -1,0 +1,19 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Korev Dmitriy <korev.dmitriy1@yandex.ru>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/app1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/app1.test.js"
+  }
+}
